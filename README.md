@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/Nakiyah24/Nakiyah_Assignment9/actions/workflows/cicd.yml/badge.svg)](https://github.com/Nakiyah24/Nakiyah_Assignment9/actions/workflows/cicd.yml)
 
+```
 Nakiyah_Assignment9
 ├── .devcontainer/
 │   ├── devcontainer.json
@@ -21,6 +22,7 @@ Nakiyah_Assignment9
 ├── bar_plot.png
 ├── summary_statistics_report.pdf
 └── test_file.py
+```
 
 ## Repository contents:
 1. .devcontainer directory (a) devcontainer.json (b) Dockerfile
