@@ -1,6 +1,6 @@
 # Nakiyah_Assignment9
 
-[![CI](https://github.com/Nakiyah24/Nakiyah_Assignment9/actions/workflows/cicd.yml/badge.svg)](https://github.com/Nakiyah24/Nakiyah_Assignment9/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/Nakiyah_Assignment9/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Nakiyah_Assignment9/actions/workflows/cicd.yml)
 
 ```
 Nakiyah_Assignment9
